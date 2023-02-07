@@ -1,6 +1,6 @@
 # Fincounter API
 
-#### To run the app without cloning the source code, just run the `docker-compose.yml` with command:
+#### To run the app without cloning the source code, just execute the `docker-compose.yml` with command:
 ```
 docker compose up -d fincounter-api
 ```
