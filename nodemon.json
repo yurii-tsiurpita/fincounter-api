@@ -1,0 +1,8 @@
+{
+    "watch": ["src"],
+    "ext": "ts,json",
+    "env": {
+        "NODE_ENV": "development"
+    },
+    "exec": "npm exec ts-node ./src/main.ts"
+}
